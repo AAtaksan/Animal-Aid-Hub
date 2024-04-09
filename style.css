@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+div {
+    background-color: aquamarine;
+    height: 60px;
+}
