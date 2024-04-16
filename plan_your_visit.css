@@ -134,3 +134,28 @@ h3 {
     font-size: 28px;
     color: #80b918;
 }
+
+.block-right-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.right-image {
+    background-image: url("dog-8434228_1280.jpg");
+    background-size: cover;
+    height: 524px;
+    width: 700px;
+    /* border: 2px solid black; */
+    border-radius: 50px;
+
+}
+
+.block-right-content {
+    height: 524px;
+    width: 550px;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
