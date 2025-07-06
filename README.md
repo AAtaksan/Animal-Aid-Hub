@@ -1,6 +1,6 @@
 # Animal Aid Website
 
-A web project for Animal Aid, an organization dedicated to rescuing, rehabilitating, and protecting animals and their habitats. This website was created as a final submission for the Dicoding course "Belajar Pemrograman Dasar Web" by Muhammad Thoriq Ali Said.
+A web project for Animal Aid, an organization dedicated to rescuing, rehabilitating, and protecting animals and their habitats.
 
 ## Features
 - **Responsive Design**: Works well on desktop and mobile devices.
